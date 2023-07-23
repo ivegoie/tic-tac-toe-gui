@@ -1,6 +1,6 @@
 # Tic-Tac-Toe v2.0
 
-This is a simple implementation of the classic Tic-Tac-Toe game using Python's tkinter library. The game provides a graphical user interface (GUI) for two players to play the game on a 3x3 grid. Players take turns placing their respective symbols, "X" and "O", on the grid, and the first player to form a winning combination of their symbol wins the game.
+This is a simple implementation and updated version of [code](https://github.com/ivegoie/tic-tac-toe-terminal-game) the classic Tic-Tac-Toe game using Python's tkinter library. The game provides a graphical user interface (GUI) for two players to play the game on a 3x3 grid. Players take turns placing their respective symbols, "X" and "O", on the grid, and the first player to form a winning combination of their symbol wins the game.
 
 ## Requirements
 
